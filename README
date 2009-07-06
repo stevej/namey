@@ -1,6 +1,6 @@
 A simple DNS server in Scala using Naggati and Apache Mina.
 
 TODO:
-  Get basic DNS A query working.
+  Finish basic DNS A query.
   Response type for A record.
   The rest.
